@@ -161,5 +161,14 @@
     "regDate": "2026-02-17T13:23:29.701",
     "expiryDate": "2026-03-19T13:23:29.701",
     "status": "Active"
+  },
+  {
+    "name": "Sidhant Verma",
+    "phone": "3445345343",
+    "fees": "500",
+    "plan": "1 Month",
+    "regDate": "2026-02-17T18:14:59.594229",
+    "expiryDate": "2026-03-19T18:14:59.594290",
+    "status": "Active"
   }
 ]
