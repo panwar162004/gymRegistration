@@ -5,7 +5,7 @@
     "fees": "500",
     "plan": "1 Month",
     "regDate": "2026-02-15T11:47:08.134",
-    "expiryDate": "2026-03-17T11:47:08.134",
+    "expiryDate": "2026-05-16T11:47:08.134",
     "status": "Active"
   },
   {
@@ -77,8 +77,8 @@
     "fees": "10",
     "plan": "1 Minutes",
     "regDate": "2026-02-15T14:31:26.620",
-    "expiryDate": "2026-03-19T12:51:24.867",
-    "status": "Active"
+    "expiryDate": "2026-02-16T14:31:26.620",
+    "status": "Inactive"
   },
   {
     "name": "rohit",
@@ -104,7 +104,7 @@
     "fees": "500",
     "plan": "1 Month",
     "regDate": "2026-02-15T16:23:49.256982",
-    "expiryDate": "2026-02-17T12:51:54.693",
+    "expiryDate": "2026-02-15T16:24:49.269101",
     "status": "Active"
   },
   {
