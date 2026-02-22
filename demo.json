@@ -184,10 +184,10 @@
   {
     "name": "Suraj",
     "phone": "4539585895",
-    "fees": "500",
-    "plan": "1 Month",
+    "fees": 1000,
+    "plan": "2 Months",
     "regDate": "2026-02-19T13:34:26.651980",
-    "expiryDate": "2026-03-21T13:34:26.652372",
+    "expiryDate": "2026-05-20T13:34:26.652372",
     "status": "Active"
   },
   {
