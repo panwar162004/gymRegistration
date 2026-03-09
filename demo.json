@@ -9,9 +9,9 @@
     "status": "Active"
   },
   {
-    "name": "raman",
+    "name": "raman Singh",
     "phone": "8090909080",
-    "fees": "500",
+    "fees": 500,
     "plan": "1 Month",
     "regDate": "2026-03-09T16:50:25.862630",
     "expiryDate": "2026-04-08T16:50:25.864100",
