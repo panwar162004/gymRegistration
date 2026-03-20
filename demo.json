@@ -52,5 +52,16 @@
     "status": "Active",
     "photoPath": "/Users/apple/Library/Developer/CoreSimulator/Devices/72D33DD4-5D3A-41FE-B04A-EB4AA37D0F4D/data/Containers/Data/Application/E58F530C-170A-441D-9C20-82C7EDDB2CFE/Documents/member_photo_1773056886626.jpg",
     "photoUrl": null
+  },
+  {
+    "name": "Raja Ram",
+    "phone": "9090909090",
+    "fees": "500",
+    "plan": "1 Month",
+    "regDate": "2026-03-20T16:04:51.535215",
+    "expiryDate": "2026-04-19T16:04:51.535259",
+    "status": "Active",
+    "photoPath": null,
+    "photoUrl": null
   }
 ]
