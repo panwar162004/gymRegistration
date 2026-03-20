@@ -63,5 +63,16 @@
     "status": "Active",
     "photoPath": null,
     "photoUrl": null
+  },
+  {
+    "name": "Satyam Singh",
+    "phone": "7080908090",
+    "fees": "600",
+    "plan": "1 Month",
+    "regDate": "2026-03-20T16:05:18.896289",
+    "expiryDate": "2026-04-19T16:05:18.896324",
+    "status": "Active",
+    "photoPath": null,
+    "photoUrl": null
   }
 ]
